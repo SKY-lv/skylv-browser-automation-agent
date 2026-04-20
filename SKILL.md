@@ -1,8 +1,8 @@
 ---
 name: "browser-automation-agent"
 slug: skylv-browser-automation-agent
-version: 1.0.0
-description: "浏览器自动化Agent。使用Playwright/Puppeteer进行网页自动化、数据采集、表单填写。触发词：browser、浏览器自动化、爬虫、playwright、puppeteer、网页抓取。"
+version: 1.0.2
+description: Browser automation Agent. Web scraping, form filling, and UI automation using Playwright or Puppeteer. Triggers: browser automation, web scraping, playwright, puppeteer.
 author: SKY-lv
 license: MIT-0
 tags: [browser, openclaw, agent]
